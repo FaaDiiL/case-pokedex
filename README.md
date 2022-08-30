@@ -1,1 +1,1 @@
-# case-pokedex
+# Case-pokédex
